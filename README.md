@@ -6,3 +6,6 @@ Football passing networks or maps are efficient visual representation of passes 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## HOW?
 With the help of special libraries (statsbomb and mplsoccer) we get the data as well as graphical 2-D pitches to Create the network in python.Libraries Used : Matplotlib , Statsbomb(data related to football) , mplsoccer(representation of football pitches) and Pandas.
+
+
+https://soccermatics.readthedocs.io/en/latest/index.html
